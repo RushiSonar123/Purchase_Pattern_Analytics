@@ -1,5 +1,5 @@
-# Purchase_Pattern_Analytics
-# 🚀 Purchase_Pattern_Analytics
+# Customer Behaviour Dashboard
+# 🚀 Customer Behaviour Dashboard
 
 ## 📌 Overview
 
